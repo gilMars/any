@@ -2,10 +2,10 @@ dataset:
   categories:
   - test
   manifest:
-    amount: 1
+    amount: 3
     files: MANIFEST.yaml
-    size: 9 Bytes
+    size: 27 Bytes
     storage: s3h://mlgit-test-lucas
   mutability: flexible
   name: dataset-ex
-  version: 1
+  version: 2
